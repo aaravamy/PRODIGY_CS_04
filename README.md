@@ -69,6 +69,6 @@ To stop the logger, press Ctrl + C or close the terminal window.
 
 This project is provided under the [MIT License](LICENSE).
 
-*Author:* Radha
+*Author:* Vishal Kumar Ravi
 
 *Project Name:* Python Keylogger (Educational Purpose Only)
